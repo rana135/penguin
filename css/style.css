@@ -1,0 +1,17 @@
+body{
+    padding:0px;
+    margin:0px;
+    
+}
+/* .half-width img{
+    width: 350px;
+    
+}   */
+li:hover{
+background-color: rgba(0, 255, 255, 0.637);
+border-radius:10px;
+}
+.experience{
+    align-items: center;
+   
+}
